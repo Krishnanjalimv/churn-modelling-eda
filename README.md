@@ -42,6 +42,19 @@ The analysis explores customer-related factors such as:
 - Active Membership
 - Customer Churn
 
+  ## Key Insights
+
+- Customer age has some variation and potential outliers.
+- Customer churn varies across different customer characteristics.
+- Active customers are generally less likely to churn.
+- Customers with different numbers of products show different churn patterns.
+- Geography and gender can also influence customer churn.
+- Data visualization helped identify important patterns and relationships in the dataset.
+
+## Conclusion
+
+This EDA project helped identify important customer patterns and factors related to customer churn using Python, Pandas, Matplotlib, and Seaborn.
+
 ##  Project Files
 
 - `churn_modelling_eda.ipynb` - Jupyter Notebook containing the complete EDA process.
